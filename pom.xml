@@ -7,10 +7,6 @@
   <version>1.4</version>
   <name>Infotech-App Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <web-app xmlns="http://java.sun.com/xml/ns/javaee"
-         version="3.0">
-    <display-name>Infotech App</display-name>
-</web-app>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
